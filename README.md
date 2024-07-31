@@ -6,10 +6,6 @@ Welcome to the **100 Days of TypeScript Code** project! This repository is dedic
 
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
-- [Daily Logs](#daily-logs)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -21,15 +17,14 @@ TypeScript is a powerful, statically typed superset of JavaScript that enables d
 
 ## Getting Started
 
-To get started with this project, you'll need to have Node.js and npm (or Yarn) installed on your machine. Follow these steps to clone the repository and install the necessary dependencies:
+To get started with this project, you'll need to have Node.js and npm installed on your machine. Follow these steps to clone the repository and install the necessary dependencies:
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/100-days-of-typescript-code.git
    cd 100-days-of-typescript-code
    ```
-2. Install dependencies
+2. Install TypeScript
    ```bash
-   npm install
+   npm install -g typescript
    ```
-   
