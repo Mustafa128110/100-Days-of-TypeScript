@@ -20,11 +20,26 @@ TypeScript is a powerful, statically typed superset of JavaScript that enables d
 To get started with this project, you'll need to have Node.js and npm installed on your machine. Follow these steps to clone the repository and install the necessary dependencies:
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/your-username/100-days-of-typescript-code.git
    cd 100-days-of-typescript-code
    ```
-2. Install TypeScript
+2. Install TypeScript:
+
    ```bash
    npm install -g typescript
    ```
+3. Execute the code for a specific day:
+
+   ```bash
+   node X/main.js
+   ```
+
+##
+
+Thank you for visiting the **100 Days of TypeScript** Code repository. I hope you find the code and documentation helpful and inspiring. Happy coding!
+
+##
+
+This README provides a comprehensive overview of the project and instructions for getting started.
