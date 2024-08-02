@@ -23,7 +23,7 @@ To get started with this project, you'll need to have Node.js and npm installed 
 
    ```bash
    git clone https://github.com/your-username/100-days-of-typescript-code.git
-   cd 100-days-of-typescript-code
+   cd 100-days-of-typescript
    ```
 2. Install TypeScript:
 
